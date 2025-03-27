@@ -40,6 +40,17 @@ section {
   position: relative;
 }
 
+.section-title::after {
+  content: "";
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background-color: #ff6b6b;
+}
+
 /* Navigation */
 .navbar {
   position: fixed;
@@ -82,6 +93,21 @@ section {
 
 .nav-links a:hover {
   color: #ff6b6b;
+}
+
+.nav-links a::after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #ff6b6b;
+  transition: width 0.3s ease;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
 }
 
 .menu-toggle {
@@ -265,6 +291,16 @@ footer {
   margin-bottom: 20px;
   position: relative;
   padding-bottom: 10px;
+}
+
+.footer-section h3::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background-color: #ff6b6b;
 }
 
 .footer-links {
