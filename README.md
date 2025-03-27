@@ -40,4 +40,5 @@ Este es un proyecto de página de aterrizaje para un sitio web relacionado con l
 <br/>
 📧 Email: fernando.jimenez15@inacapmail.cl
 <br/>
-📍 Ubicación: Los Ángeles, Chil
+📍 Ubicación: Los Ángeles, Chile.
+
