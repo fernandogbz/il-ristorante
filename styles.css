@@ -381,7 +381,7 @@ footer {
   .nav-links {
     position: fixed;
     top: 70px;
-    left: -100%;
+    right: -100%;
     width: 100%;
     height: calc(100vh - 70px);
     background-color: white;
@@ -392,7 +392,7 @@ footer {
   }
 
   .nav-links.active {
-    left: 0;
+    right: 0;
   }
 
   .nav-links li {
