@@ -1,44 +1,43 @@
 # il-ristorante
+
 Link: https://fernandogbz.github.io/il-ristorante/
 
-# 🍽 Il Ristorante Landing Page  
+# 🍽 Il Ristorante Landing Page
 
-Este es un proyecto de una Landing Page para un sitio web relacionado con la comida. Incluye un diseño moderno, responsivo y fácil de navegar.  
+Este es un proyecto de una Landing Page para un sitio web relacionado con la comida. Incluye un diseño moderno, responsivo y fácil de navegar.
 
-## ⚙ Características  
+## ⚙ Características
 
-✅ *Menú de Navegación* – Barra superior con enlaces a diferentes secciones.  
-✅ *Hero Section* – Imagen destacada con texto centrado y color llamativo.  
-✅ *Footer* – Contiene enlaces importantes y datos de contacto.  
+✅ _Menú de Navegación_ – Barra superior con enlaces a diferentes secciones.  
+✅ _Hero Section_ – Imagen destacada con texto centrado y color llamativo.  
+✅ _Footer_ – Contiene enlaces importantes y datos de contacto.
 
+## 🚀 Tecnologías Utilizadas
 
-## 🚀 Tecnologías Utilizadas  
-  
-- HTML  
-- CSS  
+- HTML
+- CSS
 
-## 📂 Estructura del Proyecto  
+## 📂 Estructura del Proyecto
 
 /evaluacion-1-il-ristorante
 <br/>
-│__ /styles.css # Archivos CSS
+│** /styles.css # Archivos CSS
 <br/>
-│__ index.html # Página principal
+│** index.html # Página principal
 <br/>
-│__ README.md # Documentación del proyecto
+│\_\_ README.md # Documentación del proyecto
 
+## 📦 Instalación y Uso
 
-## 📦 Instalación y Uso  
-
-1. Clona el repositorio:  
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/fernandogbz/il-ristorante.git
-<br/>
-📬 Contacto
-<br/>
-👨‍💻 Desarrollado por: Fernando Jiménez
-<br/>
-📧 Email: fernando.jimenez15@inacapmail.cl
-<br/>
-📍 Ubicación: Los Ángeles, Chile.
-
+   <br/>
+   📬 Contacto
+   <br/>
+   👨‍💻 Desarrollado por: Fernando Jiménez
+   <br/>
+   📧 Email: fernando.jimenez15@inacapmail.cl
+   <br/>
+   📍 Ubicación: Los Ángeles, Chile.
+   ```
