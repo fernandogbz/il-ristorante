@@ -24,7 +24,7 @@ Este es un proyecto de Landing Page para un sitio web relacionado con la comida.
 
 /evaluacion-1-il-ristorante
 <br/>
-│__ /styles.css # Archivos CSS
+│__ styles.css # Archivos CSS
 <br/>
 │__ index.html # Página principal
 <br/>
