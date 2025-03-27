@@ -3,7 +3,7 @@ Link: https://fernandogbz.github.io/il-ristorante/
 
 # 🍽 Il Ristorante Landing Page  
 
-Este es un proyecto de página de aterrizaje para un sitio web relacionado con la comida. Incluye un diseño moderno, responsivo y fácil de navegar.  
+Este es un proyecto de una Landing Page para un sitio web relacionado con la comida. Incluye un diseño moderno, responsivo y fácil de navegar.  
 
 ## ⚙ Características  
 
