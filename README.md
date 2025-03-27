@@ -11,6 +11,8 @@ Este es un proyecto de una Landing Page para un sitio web relacionado con la com
 ✅ _Menú de Navegación_ – Barra superior con enlaces a diferentes secciones.  
 ✅ _Hero Section_ – Imagen destacada con texto centrado y color llamativo.  
 ✅ _Footer_ – Contiene enlaces importantes y datos de contacto.
+✅ **Sección de Ofertas** – Tres cajas alineadas con imágenes, títulos y precios.  
+✅ **Galería de Imágenes** – Muestra al menos cuatro imágenes en un diseño atractivo.  
 
 ## 🚀 Tecnologías Utilizadas
 
