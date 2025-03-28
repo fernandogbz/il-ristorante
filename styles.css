@@ -376,7 +376,7 @@ footer {
 
 @media screen and (max-width: 768px) {
   .menu-toggle {
-    display: block;
+    display: flex;
   }
 
   .nav-links {
@@ -397,7 +397,10 @@ footer {
   }
 
   .nav-links li {
-    margin: 20px 0;
+    margin: 0;
+    padding: 20px 0;
+    width: 100%;
+    text-align: center;
   }
 
   .hero-title {
