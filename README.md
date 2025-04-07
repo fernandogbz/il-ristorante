@@ -44,4 +44,3 @@ Este es un proyecto de Landing Page para un sitio web relacionado con la comida.
 📧 Email: fernando.jimenez15@inacapmail.cl
 <br/>
 📍 Ubicación: Los Ángeles, Chile.
-
