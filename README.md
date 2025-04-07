@@ -45,4 +45,3 @@ Este es un proyecto de Landing Page para un sitio web relacionado con la comida.
 <br/>
 📍 Ubicación: Los Ángeles, Chile.
 
-
